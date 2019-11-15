@@ -1,0 +1,44 @@
+#shopping-cart2 >  div > img{
+    width: 20%;
+}
+.col-md-3{
+   display:block;
+}
+#shopping-cart2 >  div {
+   width:100%;
+   height: 100px
+}
+#shopping-cart2 >  div  {
+    width:100%;
+    height: 2px
+ }
+
+
+#shopping-cart2 >  div > div > p{
+    visibility: hidden
+}
+
+#shopping-cart2 >  div > div > select{
+    visibility: hidden
+    
+}
+
+
+#shopping-cart2 >  div > div > button{
+    content:'delete';
+    width:30px;
+    height:30px;
+    background-color: red;
+    margin: 5px;
+    padding:10px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    font-size:11px;
+    line-height:32px;
+    
+}
+
+#prepared-pizza > galery-premade > div > div > select {
+    visibility: hidden;
+}
